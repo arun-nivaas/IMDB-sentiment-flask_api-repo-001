@@ -9,5 +9,5 @@ scikit-learn
 matplotlib
 plotly
 requests
-
+gunicorn
 
