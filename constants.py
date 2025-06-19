@@ -5,7 +5,7 @@ SHORT ="short"
 SUBMIT = "Submit Review"
 POSITIVE = "Positive"
 NEGATIVE = "Negative"
-FINAL_MODEL = "ARUNNIVAAS7299/bert-sentiment-classifier"
+FINAL_MODEL = "ARUNNIVAAS7299/IMDB-Distiltbert-sentiment-classifier"
 
 #URL for the Flask API
 FLASK_API_URL = "http://localhost:5000/predict"
